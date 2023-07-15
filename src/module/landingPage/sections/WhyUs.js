@@ -9,11 +9,13 @@ import Frame101 from '../../../assets/img/Frame 101.png'
 export default function WhyUs(){
   return (
     
-    
+   
     <Container>
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+       
 
         <h1 className="hero-section-text-title">Why Us</h1>
         <p style={{fontWeight: 'bold'}}>Mengapa harus pilih Binar Car Rental?</p>

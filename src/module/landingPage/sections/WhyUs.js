@@ -15,7 +15,7 @@ export default function WhyUs(){
         <br></br>
         <br></br>
 
-        <h1 className="hero-section-text-title">Why Us</h1><p>Hallo</p>
+        <h1 className="hero-section-text-title">Why Us</h1><h2>Hallo</h2>
         <p style={{fontWeight: 'bold'}}>Mengapa harus pilih Binar Car Rental?</p>
         <Row style={{gap: 16}}>
             <Col>
